@@ -1,3 +1,4 @@
+//Este es el que llama al DOM virtual porque react es dom virtual, entonces esto las enruta para levantarlas
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';

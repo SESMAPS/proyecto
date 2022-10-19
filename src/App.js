@@ -1,3 +1,4 @@
+//desde aqui es donde construimos todas las paginitas
 import logo from './logo.svg';
 import './App.css';
 
